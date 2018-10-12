@@ -1,5 +1,9 @@
 # Databases
 
+## [Lippincott Advisor](http://summit.csuci.edu/login?url=https://advisor.lww.com)
+
+> Lippincott Advisor is a source for immediate, evidence-based, online nursing clinical-decision support. It delivers, 24/7 access to the latest evidence-based information that clinicians need at the point of care with over 17,000 monographs and patient teaching handouts.
+
 ## [Academic Search Premier](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
 
 > Academic Search Premier contains indexing and abstracts for more than 8,300 journals, with full text for more than 4,500 of those titles. This database contains coverage across the disciplines including biology, chemistry, engineering, physics, psychology, history, religion & theology, and many more.
