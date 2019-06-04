@@ -20,6 +20,10 @@
 
 > Provides access to journals for a variety ofthe health sciencesincluding nursing, geriatrics, palliative medicine, pediatrics, public health and more.
 
+## [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?otool=cacsucilib)
+
+> Flagship clinical literature database of the US National Library of Medicine, PubMed includes 29 million citations for biomedical literature, many with links to full text.
+
 ## [ScienceDirect](http://summit.csuci.edu:2048/login?url=http://www.sciencedirect.com/)
 
 > ScienceDirect offers access to over 2,500 journals in science, technology and medicine.
