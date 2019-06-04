@@ -14,7 +14,7 @@
 
 ## [National Institutes of Health](http://www.nih.gov/index.html)
 
-> National Institutes of Heal this the nation’s primary agency for conducting and supporting medical research. The NIH is part of the U.S. Department of Health and Human Services and is composed of 27 institutes and centers. You can link to any of the 27 institutes to find out statistics, news, clinical trials and research being conducted at that particular institute.
+> National Institutes of Health is the nation’s primary agency for conducting and supporting medical research. The NIH is part of the U.S. Department of Health and Human Services and is composed of 27 institutes and centers. You can link to any of the 27 institutes to find out statistics, news, clinical trials and research being conducted at that particular institute.
 
 ## [Centers for Disease Control and Prevention](http://www.cdc.gov/)
 
