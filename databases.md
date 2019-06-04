@@ -16,6 +16,10 @@
 
 > Wiley Interscience provides access to more than 450 medical, nursing, and health sciences journals.
 
+## [Sage Online Journals](http://summit.csuci.edu:2048/login?url=http://online.sagepub.com/)
+
+> Provides access to journals for a variety ofthe health sciencesincluding nursing, geriatrics, palliative medicine, pediatrics, public health and more.
+
 ## [ScienceDirect](http://summit.csuci.edu:2048/login?url=http://www.sciencedirect.com/)
 
 > ScienceDirect offers access to over 2,500 journals in science, technology and medicine.
@@ -24,10 +28,9 @@
 
 > SpringerLink is one of the leading databases for high-quality STEM journals, books and reference works.
 
-## [Sage Online Journals](http://summit.csuci.edu:2048/login?url=http://online.sagepub.com/)
-
-> Provides access to journals for a variety ofthe health sciencesincluding nursing, geriatrics, palliative medicine, pediatrics, public health and more.
-
 ## [PsycINFO](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=psyh)
 
 > PsychInfo is an abstract database of psychological literature that covers over 2100 journals.
+
+
+
