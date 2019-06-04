@@ -12,7 +12,7 @@
 
 > PubMed Central is the National Library of Medicine’s searchable database of full-text journal literature. Journals deposit materials into this digital archive on a voluntary basis.
 
-## [National Institutes of Health](http://www.nih.gov/index.html)
+## [National Institutes of Health](https://www.nih.gov/)
 
 > National Institutes of Health is the nation’s primary agency for conducting and supporting medical research. The NIH is part of the U.S. Department of Health and Human Services and is composed of 27 institutes and centers. You can link to any of the 27 institutes to find out statistics, news, clinical trials and research being conducted at that particular institute.
 
