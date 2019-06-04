@@ -6,7 +6,7 @@
 
 ## [PubMed](http://www.ncbi.nlm.nih.gov/pubmed)
 
-> PubMedis a bibliographic database created by the National Center for Biotechnology Information \(NCBI\) at the National Library of Medicine. This database provides access to citations from biomedical journals; a few articles may be available for free. You can check[ CI's Electronic Journal](http://te9lr6gh8n.search.serialssolutions.com/) list to see if we own a particular journal.
+> PubMed is a bibliographic database created by the National Center for Biotechnology Information \(NCBI\) at the National Library of Medicine. This database provides access to citations from biomedical journals; a few articles may be available for free. You can check[ CI's Electronic Journal](http://te9lr6gh8n.search.serialssolutions.com/) list to see if we own a particular journal.
 
 ## [PubMed Central](http://www.pubmedcentral.nih.gov/)
 
@@ -23,3 +23,6 @@
 ## [Partners in Information Access for the Public Health Workforce](http://phpartners.org/)
 
 > A collaboration of U.S. government agencies, public health organizations and health science libraries.
+
+
+
