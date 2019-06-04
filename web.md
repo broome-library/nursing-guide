@@ -6,7 +6,7 @@
 
 ## [PubMed](http://www.ncbi.nlm.nih.gov/pubmed)
 
-> PubMed is a bibliographic database created by the National Center for Biotechnology Information \(NCBI\) at the National Library of Medicine. This database provides access to citations from biomedical journals; a few articles may be available for free. You can check[ CI's Electronic Journal](http://te9lr6gh8n.search.serialssolutions.com/) list to see if we own a particular journal.
+> PubMed is a bibliographic database created by the National Center for Biotechnology Information \(NCBI\) at the National Library of Medicine. This database provides access to citations from biomedical journals; a few articles may be available for free. You can check [CI's Electronic Journal list](https://ci-primo.hosted.exlibrisgroup.com/primo-explore/jsearch?vid=01CALS_UCI&lang=en_US) to see if we own a particular journal.
 
 ## [PubMed Central](http://www.pubmedcentral.nih.gov/)
 
